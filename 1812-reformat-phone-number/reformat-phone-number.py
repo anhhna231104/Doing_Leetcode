@@ -19,7 +19,4 @@ class Solution(object):
             blocks.append(number[2:])
         return '-'. join(blocks)
 
-
-        return res
-
         
